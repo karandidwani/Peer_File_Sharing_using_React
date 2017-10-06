@@ -3,7 +3,7 @@ var ReactDOM = require('react-dom');
 var Filesharer = require('./components/filesharer.jsx');
 
 var options = {
-	peerjs_key: 'your peerjs key'
+	peerjs_key: 'h5gyfvymni9newmi'
 };
 
 var main = document.getElementById('main');
